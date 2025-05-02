@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yeldos23
-- 👀 I’m interested in creating web-shop
-- 🌱 I’m currently learning front-end development with Bitrix CMS system
-- 💞️ I’m looking to collaborate on front-end and bitrix
-- 📫 How to reach me yeldos23@yandex.ru
+// 02.05.2025 //
+- 👋 Hi, I’m @yeldos23  
+- 🎓 I’m a first-year Finance student in the Master’s program at the University of Pavia  
+- 💻 At the same time, I’m a Java Trainee at EPAM  
+- 📊 I’m interested in mathematics ➕, economics 💰, finance 📈, and algorithms 🤖
 
 <!---
 yeldos23/yeldos23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
