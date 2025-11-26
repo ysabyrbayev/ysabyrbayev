@@ -1,7 +1,6 @@
-// 02.05.2025 //
-- 👋 Hi, I’m @yeldos23  
-- 🎓 I’m a first-year Finance student in the Master’s program at the University of Pavia  
-- 💻 At the same time, I’m a Java Trainee at EPAM  
+// 26.11.2025 //
+- 👋 Hi, I’m @ysabyrbayev 
+- 🎓 I’m a second-year Finance student in the Master’s program at the University of Pavia  
 - 📊 I’m interested in mathematics ➕, economics 💰, finance 📈, and algorithms 🤖
 
 <!---
